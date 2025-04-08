@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando banco de dados...
-- 📫 Contate-me no email: joaofelix2019@gmail.com
+- 📫 email: joaofelix2019@gmail.com
 - 😄 Pronomes: Ele
 
 <div align="center">
