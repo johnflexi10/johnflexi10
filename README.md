@@ -4,6 +4,7 @@
 - 🌱 Estudando banco de dados...
 - 📫 email: joaofelix2019@gmail.com
 - 😄 Pronomes: Ele
+- 💻  Desenvolvedor Full-Stack
 
 <div align="center">
   <a href="https://github.com/johnflexi10">
